@@ -1,4 +1,4 @@
-const channelName = "private-driver-channel";
+const channelName = "private-location-channel";
 const androidEvent = "client-android-location";
 const webEvent = "client-web-location";
 
